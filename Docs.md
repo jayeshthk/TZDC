@@ -1188,10 +1188,8 @@ original = gzip.decompress(decrypted_compressed)
 
 ## Additional Resources
 
-- **Documentation**: https://docs.tzdc.io
-- **GitHub**: https://github.com/tzdc/tzdc-python
-- **Examples**: https://github.com/tzdc/tzdc-python/tree/main/examples
-- **API Reference**: https://docs.tzdc.io/api
-- **Security Advisories**: https://github.com/tzdc/tzdc-python/security/advisories
+- **GitHub**: https://github.com/jayeshthk/TZDC.git
+- **Examples**: https://github.com/jayeshthk/TZDC.git/tree/main/examples
+- **Security Advisories**: https://github.com/jayeshthk/TZDC.git/security/advisories
 
 ---
